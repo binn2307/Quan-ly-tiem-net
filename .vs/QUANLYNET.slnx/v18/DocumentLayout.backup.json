@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\.NET\\QuanLyNet\\QUANLYNET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00929C08-7F35-4244-BD68-9768AEE767A0}|QUANLYNET\\QUANLYNET.csproj|g:\\.net\\quanlynet\\quanlynet\\quanlynet\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00929C08-7F35-4244-BD68-9768AEE767A0}|QUANLYNET\\QUANLYNET.csproj|solutionrelative:quanlynet\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00929C08-7F35-4244-BD68-9768AEE767A0}|QUANLYNET\\QUANLYNET.csproj|g:\\.net\\quanlynet\\quanlynet\\quanlynet\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00929C08-7F35-4244-BD68-9768AEE767A0}|QUANLYNET\\QUANLYNET.csproj|solutionrelative:quanlynet\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00929C08-7F35-4244-BD68-9768AEE767A0}|QUANLYNET\\QUANLYNET.csproj|g:\\.net\\quanlynet\\quanlynet\\quanlynet\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{00929C08-7F35-4244-BD68-9768AEE767A0}|QUANLYNET\\QUANLYNET.csproj|solutionrelative:quanlynet\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00929C08-7F35-4244-BD68-9768AEE767A0}|QUANLYNET\\QUANLYNET.csproj|g:\\.net\\quanlynet\\quanlynet\\quanlynet\\qln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00929C08-7F35-4244-BD68-9768AEE767A0}|QUANLYNET\\QUANLYNET.csproj|solutionrelative:quanlynet\\qln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00929C08-7F35-4244-BD68-9768AEE767A0}|QUANLYNET\\QUANLYNET.csproj|g:\\.net\\quanlynet\\quanlynet\\quanlynet\\computerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00929C08-7F35-4244-BD68-9768AEE767A0}|QUANLYNET\\QUANLYNET.csproj|solutionrelative:quanlynet\\computerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00929C08-7F35-4244-BD68-9768AEE767A0}|QUANLYNET\\QUANLYNET.csproj|g:\\.net\\quanlynet\\quanlynet\\quanlynet\\computerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00929C08-7F35-4244-BD68-9768AEE767A0}|QUANLYNET\\QUANLYNET.csproj|solutionrelative:quanlynet\\computerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00929C08-7F35-4244-BD68-9768AEE767A0}|QUANLYNET\\QUANLYNET.csproj|g:\\.net\\quanlynet\\quanlynet\\quanlynet\\bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00929C08-7F35-4244-BD68-9768AEE767A0}|QUANLYNET\\QUANLYNET.csproj|solutionrelative:quanlynet\\bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00929C08-7F35-4244-BD68-9768AEE767A0}|QUANLYNET\\QUANLYNET.csproj|g:\\.net\\quanlynet\\quanlynet\\quanlynet\\createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00929C08-7F35-4244-BD68-9768AEE767A0}|QUANLYNET\\QUANLYNET.csproj|solutionrelative:quanlynet\\createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00929C08-7F35-4244-BD68-9768AEE767A0}|QUANLYNET\\QUANLYNET.csproj|g:\\.net\\quanlynet\\quanlynet\\quanlynet\\phiensudung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00929C08-7F35-4244-BD68-9768AEE767A0}|QUANLYNET\\QUANLYNET.csproj|solutionrelative:quanlynet\\phiensudung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00929C08-7F35-4244-BD68-9768AEE767A0}|QUANLYNET\\QUANLYNET.csproj|g:\\.net\\quanlynet\\quanlynet\\quanlynet\\maytinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00929C08-7F35-4244-BD68-9768AEE767A0}|QUANLYNET\\QUANLYNET.csproj|solutionrelative:quanlynet\\maytinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00929C08-7F35-4244-BD68-9768AEE767A0}|QUANLYNET\\QUANLYNET.csproj|g:\\.net\\quanlynet\\quanlynet\\quanlynet\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00929C08-7F35-4244-BD68-9768AEE767A0}|QUANLYNET\\QUANLYNET.csproj|solutionrelative:quanlynet\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00929C08-7F35-4244-BD68-9768AEE767A0}|QUANLYNET\\QUANLYNET.csproj|g:\\.net\\quanlynet\\quanlynet\\quanlynet\\usercomputerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00929C08-7F35-4244-BD68-9768AEE767A0}|QUANLYNET\\QUANLYNET.csproj|solutionrelative:quanlynet\\usercomputerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00929C08-7F35-4244-BD68-9768AEE767A0}|QUANLYNET\\QUANLYNET.csproj|g:\\.net\\quanlynet\\quanlynet\\quanlynet\\usercomputerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00929C08-7F35-4244-BD68-9768AEE767A0}|QUANLYNET\\QUANLYNET.csproj|solutionrelative:quanlynet\\usercomputerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00929C08-7F35-4244-BD68-9768AEE767A0}|QUANLYNET\\QUANLYNET.csproj|g:\\.net\\quanlynet\\quanlynet\\quanlynet\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00929C08-7F35-4244-BD68-9768AEE767A0}|QUANLYNET\\QUANLYNET.csproj|solutionrelative:quanlynet\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00929C08-7F35-4244-BD68-9768AEE767A0}|QUANLYNET\\QUANLYNET.csproj|g:\\.net\\quanlynet\\quanlynet\\quanlynet\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00929C08-7F35-4244-BD68-9768AEE767A0}|QUANLYNET\\QUANLYNET.csproj|solutionrelative:quanlynet\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "G:\\.NET\\QuanLyNet\\QUANLYNET\\QUANLYNET\\Admin.cs",
+              "RelativeDocumentMoniker": "QUANLYNET\\Admin.cs",
+              "ToolTip": "G:\\.NET\\QuanLyNet\\QUANLYNET\\QUANLYNET\\Admin.cs",
+              "RelativeToolTip": "QUANLYNET\\Admin.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T11:36:36.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Admin.cs [Design]",
+              "DocumentMoniker": "G:\\.NET\\QuanLyNet\\QUANLYNET\\QUANLYNET\\Admin.cs",
+              "RelativeDocumentMoniker": "QUANLYNET\\Admin.cs",
+              "ToolTip": "G:\\.NET\\QuanLyNet\\QUANLYNET\\QUANLYNET\\Admin.cs [Design]",
+              "RelativeToolTip": "QUANLYNET\\Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T11:36:30.804Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ComputerService.cs",
+              "DocumentMoniker": "G:\\.NET\\QuanLyNet\\QUANLYNET\\QUANLYNET\\ComputerService.cs",
+              "RelativeDocumentMoniker": "QUANLYNET\\ComputerService.cs",
+              "ToolTip": "G:\\.NET\\QuanLyNet\\QUANLYNET\\QUANLYNET\\ComputerService.cs",
+              "RelativeToolTip": "QUANLYNET\\ComputerService.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAswAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T11:11:42.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ComputerService.cs [Design]",
+              "DocumentMoniker": "G:\\.NET\\QuanLyNet\\QUANLYNET\\QUANLYNET\\ComputerService.cs",
+              "RelativeDocumentMoniker": "QUANLYNET\\ComputerService.cs",
+              "ToolTip": "G:\\.NET\\QuanLyNet\\QUANLYNET\\QUANLYNET\\ComputerService.cs [Design]",
+              "RelativeToolTip": "QUANLYNET\\ComputerService.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T11:09:28.788Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QLN.cs",
+              "DocumentMoniker": "G:\\.NET\\QuanLyNet\\QUANLYNET\\QUANLYNET\\QLN.cs",
+              "RelativeDocumentMoniker": "QUANLYNET\\QLN.cs",
+              "ToolTip": "G:\\.NET\\QuanLyNet\\QUANLYNET\\QUANLYNET\\QLN.cs",
+              "RelativeToolTip": "QUANLYNET\\QLN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T10:24:25.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "G:\\.NET\\QuanLyNet\\QUANLYNET\\QUANLYNET\\App.config",
+              "RelativeDocumentMoniker": "QUANLYNET\\App.config",
+              "ToolTip": "G:\\.NET\\QuanLyNet\\QUANLYNET\\QUANLYNET\\App.config",
+              "RelativeToolTip": "QUANLYNET\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-06-10T10:19:56.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PhienSuDung.cs",
+              "DocumentMoniker": "G:\\.NET\\QuanLyNet\\QUANLYNET\\QUANLYNET\\PhienSuDung.cs",
+              "RelativeDocumentMoniker": "QUANLYNET\\PhienSuDung.cs",
+              "ToolTip": "G:\\.NET\\QuanLyNet\\QUANLYNET\\QUANLYNET\\PhienSuDung.cs",
+              "RelativeToolTip": "QUANLYNET\\PhienSuDung.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T10:38:07.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MayTInh.cs",
+              "DocumentMoniker": "G:\\.NET\\QuanLyNet\\QUANLYNET\\QUANLYNET\\MayTInh.cs",
+              "RelativeDocumentMoniker": "QUANLYNET\\MayTInh.cs",
+              "ToolTip": "G:\\.NET\\QuanLyNet\\QUANLYNET\\QUANLYNET\\MayTInh.cs",
+              "RelativeToolTip": "QUANLYNET\\MayTInh.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T10:30:43.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BLL.cs",
+              "DocumentMoniker": "G:\\.NET\\QuanLyNet\\QUANLYNET\\QUANLYNET\\BLL.cs",
+              "RelativeDocumentMoniker": "QUANLYNET\\BLL.cs",
+              "ToolTip": "G:\\.NET\\QuanLyNet\\QUANLYNET\\QUANLYNET\\BLL.cs",
+              "RelativeToolTip": "QUANLYNET\\BLL.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T01:06:26.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "G:\\.NET\\QuanLyNet\\QUANLYNET\\QUANLYNET\\User.cs",
+              "RelativeDocumentMoniker": "QUANLYNET\\User.cs",
+              "ToolTip": "G:\\.NET\\QuanLyNet\\QUANLYNET\\QUANLYNET\\User.cs",
+              "RelativeToolTip": "QUANLYNET\\User.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T10:30:32.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateDB.cs",
+              "DocumentMoniker": "G:\\.NET\\QuanLyNet\\QUANLYNET\\QUANLYNET\\CreateDB.cs",
+              "RelativeDocumentMoniker": "QUANLYNET\\CreateDB.cs",
+              "ToolTip": "G:\\.NET\\QuanLyNet\\QUANLYNET\\QUANLYNET\\CreateDB.cs",
+              "RelativeToolTip": "QUANLYNET\\CreateDB.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T10:24:13.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserComputerForm.cs",
+              "DocumentMoniker": "G:\\.NET\\QuanLyNet\\QUANLYNET\\QUANLYNET\\UserComputerForm.cs",
+              "RelativeDocumentMoniker": "QUANLYNET\\UserComputerForm.cs",
+              "ToolTip": "G:\\.NET\\QuanLyNet\\QUANLYNET\\QUANLYNET\\UserComputerForm.cs",
+              "RelativeToolTip": "QUANLYNET\\UserComputerForm.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T10:13:06.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserComputerForm.cs [Design]",
+              "DocumentMoniker": "G:\\.NET\\QuanLyNet\\QUANLYNET\\QUANLYNET\\UserComputerForm.cs",
+              "RelativeDocumentMoniker": "QUANLYNET\\UserComputerForm.cs",
+              "ToolTip": "G:\\.NET\\QuanLyNet\\QUANLYNET\\QUANLYNET\\UserComputerForm.cs [Design]",
+              "RelativeToolTip": "QUANLYNET\\UserComputerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T10:13:03.856Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cs",
+              "DocumentMoniker": "G:\\.NET\\QuanLyNet\\QUANLYNET\\QUANLYNET\\Login.cs",
+              "RelativeDocumentMoniker": "QUANLYNET\\Login.cs",
+              "ToolTip": "G:\\.NET\\QuanLyNet\\QUANLYNET\\QUANLYNET\\Login.cs",
+              "RelativeToolTip": "QUANLYNET\\Login.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T01:05:01.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "G:\\.NET\\QuanLyNet\\QUANLYNET\\QUANLYNET\\Login.cs",
+              "RelativeDocumentMoniker": "QUANLYNET\\Login.cs",
+              "ToolTip": "G:\\.NET\\QuanLyNet\\QUANLYNET\\QUANLYNET\\Login.cs [Design]",
+              "RelativeToolTip": "QUANLYNET\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T12:46:10.379Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
